@@ -6,6 +6,11 @@ Wykonaj zadania z arkusza:
 
 **https://arkusze.pl/egzamin-zawodowy-inf-04-2025-czerwiec**
 
-Prześlij na mail podpisz:
+
+Prześlij dokument z zrzutem ekranu działającego programu oraz kod, 
+
+na mail wykonanezadania100@gmail.com 
+
+podpisz:
 imię nazwisko i data 
-wykonanezadania100@gmail.com
+
