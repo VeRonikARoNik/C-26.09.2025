@@ -1,4 +1,4 @@
-*** C# 26.09.2025***
+*** C#/26.09.2025 ***
 
 Wykonaj zadania z arkusza:
 
